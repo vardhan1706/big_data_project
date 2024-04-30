@@ -1,0 +1,5 @@
+NEO4J:
+  neo4j_uri: "bolt://localhost:7687"
+  neo4j_user: "neo4j"
+  neo4j_password: "Vardhan@123"
+  csv_file_path: 'C:\Users\dkhan\OneDrive\Desktop\Costumer_complaints.csv'
